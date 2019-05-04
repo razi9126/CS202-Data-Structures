@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1524161296 source:e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<sys/time.h>
+	"sorts.cpp"
+
+1523801718 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\heap.cpp
+	"heap.h"
+
+1523298365 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\heap.h
+	<iostream>
+	<climits>
+
+1524163743 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\sorts.cpp
+	"sorts.h"
+	"heap.cpp"
+	"list.cpp"
+	"list.h"
+
+1524021827 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\sorts.h
+	<iostream>
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	"list.h"
+
+1523857332 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\list.h
+	<cstdlib>
+
+1523855946 e:\razi\docs\lums notes\soph2\ds\assignment4\ass4\list.cpp
+	<cstdlib>
+	"list.h"
+	<iostream>
+

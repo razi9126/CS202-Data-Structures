@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1519151367 source:e:\razi\docs\lums notes\abc\main.cpp
+	<cstdio>
+	<signal.h>
+	<iostream>
+	<string>
+	<vector>
+	"LinkedList.cpp"
+
+1519151280 e:\razi\docs\lums notes\abc\linkedlist.cpp
+	<cstdlib>
+	"LinkedList.h"
+
+1518870616 e:\razi\docs\lums notes\abc\linkedlist.h
+	<cstdlib>
+
+1518892433 e:\razi\docs\lums notes\abc\mysortedset.cpp
+	"MySortedSet.h"
+
+1518154786 e:\razi\docs\lums notes\abc\mysortedset.h
+	"LinkedList.cpp"
+
+1519029386 e:\razi\docs\lums notes\abc\stack.cpp
+	"stack.h"
+
+1518154786 e:\razi\docs\lums notes\abc\stack.h
+	"LinkedList.cpp"
+
+1519029504 e:\razi\docs\lums notes\abc\queue.cpp
+	"queue.h"
+
+1518154786 e:\razi\docs\lums notes\abc\queue.h
+	"LinkedList.cpp"
+

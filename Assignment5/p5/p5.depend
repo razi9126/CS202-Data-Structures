@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524855193 source:e:\razi\docs\lums notes\soph2\ds\assignment5\p5\main.cpp
+	"Graph.cpp"
+
+1524858053 e:\razi\docs\lums notes\soph2\ds\assignment5\p5\graph.cpp
+	"Graph.h"
+	<map>
+
+1524832041 e:\razi\docs\lums notes\soph2\ds\assignment5\p5\graph.h
+	<iostream>
+	<cstring>
+	<string>
+	<vector>
+	<fstream>
+	<set>
+	<algorithm>
+

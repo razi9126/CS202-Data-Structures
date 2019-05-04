@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1520493293 source:e:\razi\docs\lums notes\soph2\ds\assignment2\abc\main.cpp
+	<iostream>
+	"bst.cpp"
+	"union.cpp"
+	<set>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	<vector>
+
+1520069772 e:\razi\docs\lums notes\soph2\ds\assignment2\abc\tree.cpp
+	"tree.h"
+	<fstream>
+	<vector>
+
+1520062010 e:\razi\docs\lums notes\soph2\ds\assignment2\abc\tree.h
+	<cstdlib>
+	<vector>
+	<iostream>
+	<cstring>
+	<sstream>
+
+1520447502 e:\razi\docs\lums notes\soph2\ds\assignment2\abc\bst.h
+	"bst.cpp"
+	<string>
+
+1520493239 e:\razi\docs\lums notes\soph2\ds\assignment2\abc\bst.cpp
+	"bst.h"
+	<iostream>
+	<queue>
+
+1520493486 e:\razi\docs\lums notes\soph2\ds\assignment2\abc\union.cpp
+	<iostream>
+	"bst.h"
+	<vector>
+
